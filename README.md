@@ -13,6 +13,7 @@ forex service:
   passwprd:
   setting and name:Generic H2 (Embedded)
   driver class:org.h2.Driver
+  被ccs请求的地址: localhost:8000/forex/f/USD/t/INR
 
 currency conversion service:
   port:8100
